@@ -1,0 +1,11 @@
+C:\Users\johnr\source\repos\DepreciationCalculator\DepreciationCalculator\bin\Debug\DepreciationCalculator.exe.config
+C:\Users\johnr\source\repos\DepreciationCalculator\DepreciationCalculator\bin\Debug\DepreciationCalculator.exe
+C:\Users\johnr\source\repos\DepreciationCalculator\DepreciationCalculator\bin\Debug\DepreciationCalculator.pdb
+C:\Users\johnr\source\repos\DepreciationCalculator\DepreciationCalculator\obj\Debug\DepreciationCalculator.csproj.AssemblyReference.cache
+C:\Users\johnr\source\repos\DepreciationCalculator\DepreciationCalculator\obj\Debug\DepreciationCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\johnr\source\repos\DepreciationCalculator\DepreciationCalculator\obj\Debug\DepreciationCalculator.Form1.resources
+C:\Users\johnr\source\repos\DepreciationCalculator\DepreciationCalculator\obj\Debug\DepreciationCalculator.Properties.Resources.resources
+C:\Users\johnr\source\repos\DepreciationCalculator\DepreciationCalculator\obj\Debug\DepreciationCalculator.csproj.GenerateResource.cache
+C:\Users\johnr\source\repos\DepreciationCalculator\DepreciationCalculator\obj\Debug\DepreciationCalculator.csproj.CoreCompileInputs.cache
+C:\Users\johnr\source\repos\DepreciationCalculator\DepreciationCalculator\obj\Debug\DepreciationCalculator.exe
+C:\Users\johnr\source\repos\DepreciationCalculator\DepreciationCalculator\obj\Debug\DepreciationCalculator.pdb
